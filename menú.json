@@ -1,0 +1,211 @@
+{"items:":[
+
+    {
+       "category":"DESAYUNOS",
+       "items":[
+        {
+            "name":"Huevos con tocino y tostadas",
+            "description":"Desayuno completo compuesto por huevos revueltos, tostadas doradas con una porción de mantequilla derretida y tiras de tocino.",
+            "price":"150.00",
+            "image":"img/7.jpeg"
+        },
+        {
+         "Name":" Licuado Refrescante de Frutos Rojos",  
+         "description": "El plato presenta un licuado acompañado de frutos rojos y jugo de naranja con un toque de algunas frutas y avenas en el plato.",
+         "Price":" $160.00",
+        "image":"img/8.jpeg"
+        },
+        {
+        "Name": "Desayuno Completo con Café y Jugos  ",
+            "Descripción": "El plato presenta un café y jugo de naranja acompañado de huevos estrellados, tocino, pan integral y unos hot cakes.",  
+            "Price": "$200.0",
+            "image":"img/9.jpeg"
+        },
+        {
+            "name":"Delicia de Waffles con Frutos Rojos",
+            "description":"El plato presenta unos waffles con un toque de crema y frutos rojos",
+            "price":"$120.00",
+            "image":"img/10.jpeg"
+        },
+        {
+            "name":"Avena Nutritiva con Frutos Rojos",
+            "description":"El plato presenta avena acompañada de frutos rojos con proporciones divididas para cada porción de avena.  ",
+            "price":"$180.00",
+            "image":"img/11.jpeg"
+        },
+        {
+            "name":"Huevos Estrellados con Verduras Fresca",
+            "description":"El plato contiene huevos estrellados con algunas verduras como el brócoli, aguacate y pechuga (no viene incluida la bebida, es aparte). ",
+            "price":"$180.00",
+            "image":"img/12.jpeg"
+        }
+        
+       ]
+       
+    },
+    {
+        "category":"ALMUERZOS",
+       "iyems":[
+        {
+            "name":"Arroz Frito con Pollo y Verduras",
+            "description":"Arroz frito con verduras y trozos de pollo, adornado con hojas de cilantro fresco.  ",
+            "price":"$180.00",
+            "image":"img/13.jpeg"
+        },
+        {
+            "name":"Placer de Flautas",
+            "description":" Plato de flautas adornados con crema, queso y salsa.  ",
+            "price":"$170.00",
+            "image":"img/14.jpeg"
+        },
+        {
+            "name":"Chilaquiles Verdes Tradicionales",
+            "description":" Un plato de chilaquiles verdes adornado con crema, queso rallado, cebolla y tomate. ",
+            "price":"$170.00",
+            "image":"img/15.jpeg"
+        },
+        {
+            "name":"Tentación de Enchiladas",
+            "description":"Plato de enchiladas adornado con queso, rábanos y lechuga.  ",
+            "price":"$220.00",
+            "image":"img/16.jpeg"
+        },
+        {
+            "name":"Sopes Coloridos",
+            "description":"Sopes con toppings coloridos servidos en un plato azul.  ",
+            "price":"$80.00",
+            "image":"img/17.jpeg"
+        },
+        {
+            "name":"Burrito Satisfactorio",
+            "description":" Cada burrito está hecho con tortillas de harina blanca y está relleno de ingredientes que parecen ser carne, arroz y verduras.  ",
+            "price":"$80.00",
+            "image":"img/18.jpeg"
+        }
+    ] 
+    },
+    {
+        "category":"COMIDAS",
+       "iyems":[
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/19.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/20.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/21.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/22.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/23.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/24.jpeg"
+        }
+    ] 
+    },
+    {
+        "category":"POSTRES",
+       "iyems":[
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/25.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/26.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/27.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/28.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/29.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/30.jpeg"
+        }
+    ] 
+    },
+    {
+        "category":"BEBIDAS",
+       "iyems":[
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/1.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/2.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/3.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/4.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/5.jpeg"
+        },
+        {
+            "name":"",
+            "description":"",
+            "price":"",
+            "image":"img/6.jpeg"
+        }
+    ] 
+    }
+]
+}
